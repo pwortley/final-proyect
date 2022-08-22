@@ -24,8 +24,10 @@
             ],
             "styles": [
               "src/styles.css"
+              "final-proyect/proyecto final/proyecto-final/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": []
+            " final-proyect/proyecto final/proyecto-final/node_modules/bootstrap/dist/js/bootstrap.js"
           },
           "configurations": {
             "production": {
